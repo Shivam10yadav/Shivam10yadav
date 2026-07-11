@@ -1,83 +1,94 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a2332,100:2ea043&height=220&section=header&text=Shivam%20Yadav&fontSize=60&fontColor=56d4dd&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20%7C%20System%20Design&descAlignY=58&descSize=18&descColor=8b949e" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0A0A0A,100:1A1512&height=200&section=header&text=shivam@dev:~$&fontSize=44&fontColor=FFB000&fontAlignY=42&animation=fadeIn&desc=full-stack%20engineer%20/%20mern%20stack%20/%20system%20design&descAlignY=62&descSize=15&descColor=8A8578" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=2EA043&center=true&vCenter=true&width=650&height=50&lines=Building+scalable+MERN+applications;Shipping+full-stack+SaaS+products;Turning+coffee+%E2%98%95+into+clean+code;Currently+exploring+Redis+%26+CI%2FCD" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/shivam10yadav/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=2EA043" /></a>
-<a href="https://x.com/Y80Shivam"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=56D4DD" /></a>
-<a href="https://www.instagram.com/shivam10.dev/"><img src="https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F" /></a>
-<a href="https://shivamx10.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=googlechrome&logoColor=56D4DD" /></a>
-<a href="mailto:shivam10yadav05@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=900&color=FFB000&center=true&vCenter=true&width=600&height=40&lines=%3E+building+production+saas+apps;%3E+debugging+by+breaking+things;%3E+mongodb+%C2%B7+express+%C2%B7+react+%C2%B7+node;%3E+currently%3A+exploring+redis+%2B+ci%2Fcd" />
 
 </div>
 
 <br/>
 
-## ⚡ About
-
-```yaml
-role:        Full-Stack Developer (MERN)
-focus:       Building production-ready SaaS applications
-learning:    System Design · Docker · Redis · Distributed Systems
-collab:      Open-source & full-stack product builds
-ask_me:      React · Node.js · Express · MongoDB · REST APIs
-philosophy:  "Learn by building, debug by breaking"
+```bash
+$ whoami
+shivam yadav — full-stack developer, india
 ```
 
-<br/>
+```bash
+$ status --current
+building full-stack saas products end-to-end.
+learning system design, docker, redis, distributed systems.
+```
 
-## 🧰 Tech Stack
+```bash
+$ contact --list
+```
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,redis,tailwind,vite,docker,vercel,git,github,postman,figma,vscode&theme=dark" />
+<a href="https://www.linkedin.com/in/shivam10yadav/"><img src="https://img.shields.io/badge/linkedin-0A0A0A?style=flat-square&logo=linkedin&logoColor=FFB000&labelColor=0A0A0A" /></a>&nbsp;
+<a href="https://x.com/Y80Shivam"><img src="https://img.shields.io/badge/x-0A0A0A?style=flat-square&logo=x&logoColor=FFB000&labelColor=0A0A0A" /></a>&nbsp;
+<a href="https://www.instagram.com/shivam10.dev/"><img src="https://img.shields.io/badge/instagram-0A0A0A?style=flat-square&logo=instagram&logoColor=FFB000&labelColor=0A0A0A" /></a>&nbsp;
+<a href="https://shivamx10.vercel.app/"><img src="https://img.shields.io/badge/portfolio-0A0A0A?style=flat-square&logo=googlechrome&logoColor=FFB000&labelColor=0A0A0A" /></a>&nbsp;
+<a href="mailto:shivam10yadav05@gmail.com"><img src="https://img.shields.io/badge/email-0A0A0A?style=flat-square&logo=gmail&logoColor=FFB000&labelColor=0A0A0A" /></a>
 
 </div>
 
 <br/>
 
-## 📊 GitHub Analytics
+```bash
+$ cat stack.yml
+```
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,redis,tailwind,vite,docker,vercel,git,github,postman&theme=dark" />
+</div>
+
+<br/>
+
+```bash
+$ git log --stat --author=shivam
+```
 
 <div align="center">
 
-<img src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Shivam10yadav&show_icons=true&theme=tokyonight&title_color=56D4DD&icon_color=2EA043&text_color=8b949e&bg_color=0d1117&hide_border=true&count_private=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Shivam10yadav&layout=compact&theme=tokyonight&title_color=56D4DD&icon_color=2EA043&text_color=8b949e&bg_color=0d1117&hide_border=true&langs_count=8" width="49%" />
+<img src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Shivam10yadav&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FFB000&icon_color=FFB000&text_color=8A8578&border_color=1A1512&count_private=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Shivam10yadav&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FFB000&text_color=8A8578&border_color=1A1512&langs_count=8" width="42%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam10yadav&theme=tokyonight&hide_border=true&background=0d1117&ring=2EA043&fire=56D4DD&currStreakLabel=56D4DD&sideLabels=8b949e&dates=8b949e" width="70%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivam10yadav&hide_border=true&background=0A0A0A&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideLabels=8A8578&dates=8A8578&currStreakNum=E8E6E1&sideNums=E8E6E1&border=1A1512" width="70%" />
 
 </div>
 
 <br/>
 
-## 📈 Activity Graph
+```bash
+$ tail -f contributions.log
+```
 
 <div align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam10yadav&bg_color=0d1117&color=56D4DD&line=2EA043&point=ffffff&area=true&hide_border=true&area_color=2EA043" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shivam10yadav&bg_color=0A0A0A&color=8A8578&line=FFB000&point=E8E6E1&area=true&hide_border=true&area_color=FFB000" />
 </div>
 
 <br/>
 
-## 🐍 Contribution Snake
+```bash
+$ ./snake.sh --render
+```
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/Shivam10yadav/Shivam10yadav/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
-<sub align="center"><i>↳ requires the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action — setup note below.</i></sub>
+<sub><i>needs the <code>Platane/snk</code> action + an <code>output</code> branch — say the word and I'll write that workflow.</i></sub>
 
 <br/><br/>
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=false" />
+```bash
+$ echo $?
+0
+```
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,100:0d1117&height=100&section=footer" width="100%" />
-
-<i>⭐️ from <a href="https://github.com/Shivam10yadav">Shivam10yadav</a></i>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:1A1512,100:0A0A0A&height=100&section=footer" width="100%" />
 
 </div>
