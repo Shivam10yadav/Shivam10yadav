@@ -33,7 +33,7 @@ philosophy:  "Learn by building, debug by breaking"
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,redis,tailwind,vite,docker,vercel,git,github,postman,figma,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,html,react,nodejs,express,mongodb,tailwind,vite,docker,vercel,git,github,github actions,postman,render,vscode&theme=dark" />
 
 </div>
 
