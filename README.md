@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000000&height=3&width=100%25" width="100%" />
 
+<img src="./assets/avatar-hacker.png" width="160" height="160" alt="avatar" />
+
 <pre>
 ┌─────────────────────────────────────────────────────────────┐
 │  shivam@dev:~$ whoami                                        │
